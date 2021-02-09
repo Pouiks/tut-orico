@@ -1,0 +1,32 @@
+{
+  "name": "projet-diy",
+  "version": "1.0.0",
+  "description": "## Front branch:   * devFront-name",
+  "main": "./app/app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/O-clock-Lyra-JS/projet-diy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/O-clock-Lyra-JS/projet-diy/issues"
+  },
+  "homepage": "https://github.com/O-clock-Lyra-JS/projet-diy#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.0",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "email-validator": "^2.0.4",
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "joi": "^17.3.0",
+    "jsonwebtoken": "^8.5.1",
+    "multer": "^2.0.0-rc.1",
+    "pg": "^8.5.1"
+  }
+}

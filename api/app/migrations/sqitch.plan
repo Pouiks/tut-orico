@@ -1,0 +1,4 @@
+%syntax-version=1.0.0
+%project=apodiy
+
+10-createdb 2021-01-28T16:20:29Z Ubuntu <ubuntu@ip-172-31-20-245> # deploy db

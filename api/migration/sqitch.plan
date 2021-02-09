@@ -1,0 +1,4 @@
+%syntax-version=1.0.0
+%project=apodiy
+
+10-createDB 2021-01-28T15:21:16Z "Etudiant O'clock",,, <etudiant@teleporteur> # creation de la db
